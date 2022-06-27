@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fisayyo
+- 👋 Hi, I’m @Fisayyo.py
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning : Python
 - 💞️ I’m looking to collaborate on : Simple Python Projects
